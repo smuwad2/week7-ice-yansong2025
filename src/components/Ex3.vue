@@ -8,7 +8,7 @@ export default {
             entry: "",
             selMood: "",
             outputMsg: "",
-            mood: ["Happy", "Sad", "Angry"]
+            moods: ["Happy", "Sad", "Angry"]
         };
     },
     computed: {
